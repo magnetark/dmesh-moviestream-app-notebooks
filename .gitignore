@@ -1,6 +1,9 @@
 # Mac File
 .DS_Store
 
+# Config File
+config.conf
+
 # Data Folder
 app-data/
 
