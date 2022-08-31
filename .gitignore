@@ -3,6 +3,9 @@
 
 # Config File: config.conf
 
+# Idea Files
+sql/.idea/
+
 # Data Folder
 app-data/
 
